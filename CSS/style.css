@@ -1,0 +1,25 @@
+#im-1{
+    opacity: 0.5;
+}
+#im-2{
+    opacity: 0.8;
+}
+#im-3{
+    opacity: 0.5;
+}
+.hea-coro{
+    color: #000000;
+}
+.par-coro{
+    color:#000000;
+   font-weight: bold;
+}
+#cardtitle{
+    font-size: 22.5px;
+}
+#cardtitle-2{
+    font-size: 22.5px;
+}
+#aboutpar2{
+    padding: 19px;
+}
